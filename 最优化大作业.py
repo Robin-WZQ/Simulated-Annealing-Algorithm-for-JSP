@@ -1,3 +1,9 @@
+#-------------------------------
+# Simulated Annealing Algorithm for Job Shop Scheduling Problem
+# Created by WZQ
+# 2021/7/25
+#-------------------------------
+
 import random
 import math
 import time
