@@ -5,6 +5,3 @@
 **The flow chart:**
 
 ![image](https://user-images.githubusercontent.com/60317828/126891466-9d0cdaac-2f46-4aa6-98be-e47c747cc46f.png)
-
-**Results**
-![屏幕截图 2021-07-25 153806](https://user-images.githubusercontent.com/60317828/126891524-0541481e-fb2c-4ed8-a158-808b8eab0770.png)
