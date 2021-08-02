@@ -1,6 +1,6 @@
 # Simulated-Annealing-Algorithm-for-JSP
 
-**摘  要**:	作业车间调度问题（Job Shop Scheduling Problem, JSP）是在计算机科学和运筹学中普遍存在的优化问题，其关注点是在特定的时间将任务分配给有限的资源。模拟退火算法SAA(Simulated Annealing Algorithm)是基于Monte Carlo 迭代求解策略的一种通用随机寻优算法，其出发点是基于物理固体物质退火过程与一般组合优化问题之间的相似性。在一定初始温度下，结合概率和不断下降的温度，目标函数的全局最优解将会在解空间中被找到。本文利用模拟退火算法，针对JSP问题进行求解，最终得到针对十个例子的调度顺序。
+**Abstract**：Job Shop Scheduling Problem (JSP) is a popular optimization problem in computer science and operational research. It focuses on assigning jobs to finite resources at particular times. Simulated Annealing Algorithm (SSA) is a general stochastic global search optimization algorithm based on Monte Carlo iterative solution strategy. Its starting point is based on the similarity between physical solid material annealing processing and general combinatorial optimization problem. Under a certain initial temperature, combined with the probability and decreased temperature, the global optimal solution of the objective function will be found in the solution space. In this paper, I use this algorithm on JSP with ten instances and got the scheduling orders.
 
 **The flow chart:**
 
